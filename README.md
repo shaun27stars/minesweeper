@@ -4,7 +4,7 @@ Minesweeper
 The game
 --------
 
-Long version: see [Wikipedia](https://secure.wikimedia.org/wikipedia/en/wiki/Minesweeper_(video_game))
+Long version: see [Wikipedia]("https://secure.wikimedia.org/wikipedia/en/wiki/Minesweeper_(video_game)")
 
 Each turn, you can either reveal a location of flag it
 
@@ -28,7 +28,7 @@ You win if you can successfully locate all of the mines - that is, reveal every 
 Implementation
 --------------
 
-This implementation is based on the ruby implementation for the game Battleships, as found [here])https://github.com/threedaymonk/battleship)
+This implementation is based on the ruby implementation for the game Battleships, as found [here](https://github.com/threedaymonk/battleship)
 
 Play takes place on a square grid (defaulting to 10x10), with a certain number of squares containing mines (default is 10). Co-ordinates are given in the order _(x,y)_
 and are zero-indexed relative to the top left, i.e. _(0,0)_ is the top left,
