@@ -4,7 +4,9 @@ Minesweeper
 The game
 --------
 
-Long version: see [Wikipedia]("https://secure.wikimedia.org/wikipedia/en/wiki/Minesweeper_(video_game)")
+Long version: see [Wikipedia][1]
+
+[1]: https://secure.wikimedia.org/wikipedia/en/wiki/Minesweeper_(video_game)
 
 Each turn, you can either reveal a location of flag it
 
