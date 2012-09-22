@@ -8,7 +8,7 @@ Long version: see [Wikipedia][1]
 
 [1]: https://secure.wikimedia.org/wikipedia/en/wiki/Minesweeper_(video_game)
 
-Each turn, you can either reveal a location of flag it
+Each turn, you can either reveal a location or flag it:
 
 Reveal a location.
 * This will show the number of mines adjacent to that square (including diagonals).
